@@ -18,4 +18,4 @@ npm start
 
 The API server is now running at [localhost:3001](localhost:3001).
 
-The React applicaiton is now running at [localhost:3000](localhost:3000).
+The React application is now running at [localhost:3000](localhost:3000).
