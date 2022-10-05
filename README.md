@@ -4,13 +4,21 @@
 
 Follow the instructions for your platform [here](https://github.com/npm/npm).
 
-2. Install all dependencies:
+2. Install all application dependencies:
 
 ````
+cd client
 npm install
 ````
 
-3. Boot the API server on port 3001 and the React app on port 3000.
+3. Install all the API server dependencies:
+
+````
+cd ..
+npm install
+````
+
+4. Boot the API server on port 3001 and the React app on port 3000.
 
 ````
 npm start
