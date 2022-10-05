@@ -10,10 +10,11 @@ Follow the instructions for your platform [here](https://github.com/npm/npm).
 npm install
 ````
 
-3. Boot the HTTP server
+3. Boot the API server on port 3001 and the React app on port 3000.
 
 ````
-npm run server
+npm start
 ````
 
-The server is now running at [localhost:3000](localhost:3000)
+The API server is now running at [localhost:3001](localhost:3001)
+The React applicaiton is now running at [localhost:3000](localhost:3000)
