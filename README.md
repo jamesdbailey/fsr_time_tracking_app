@@ -28,4 +28,4 @@ The API server is now running at [localhost:3001](localhost:3001).
 
 The React application is now running at [localhost:3000](localhost:3000).
 
-This code is based on the Full Stack React Book and source code. [https://www.newline.co/fullstack-react/](Full Stack React). Modified to use modern ReactJS principles like hooks and arrow functions instead of class React.Component. 
+This code is based on the Full Stack React Book and source code. [Full Stack React Book](https://www.newline.co/fullstack-react). Modified to use modern ReactJS principles like hooks and arrow functions instead of class React.Component. 
